@@ -6,7 +6,7 @@ var passport	= require('passport');
 
 app.use(bodyParser.urlencoded({extended: false}));
 
-alert("Hallo Welt");
+alert("Hallo Welt2");
 
 
 
