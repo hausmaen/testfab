@@ -1,2 +1,18 @@
 /node_modules
 .vscode
+
+# Backup-Dateien
+*~
+*.bak
+
+# Temporäre Dateien/Verzeichnisse
+tmp
+temp
+*.tmp
+*.temp
+
+# Windows Dateien
+Thumbs.db
+thumbs.db
+*.DS_Store
+*.lnk
