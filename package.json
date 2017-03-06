@@ -1,0 +1,23 @@
+{
+  "name": "testfab",
+  "version": "1.0.0",
+  "description": "meine ersten Gehversuche in Git",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hausmaen/testfab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hausmaen/testfab/issues"
+  },
+  "homepage": "https://github.com/hausmaen/testfab#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
